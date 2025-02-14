@@ -1,6 +1,6 @@
 API client for [Report Portal](https://reportportal.io)
 
-Provides an ability to interact with Report Portal API in .NET/C#. Supports starting/finishing launches/tests, sending logs.
+Provides the ability to interact with the Report Portal API in .NET/C#. It supports starting and finishing launches and tests, as well as sending logs.
 
 [![CI](https://github.com/reportportal/client-net/actions/workflows/ci.yml/badge.svg)](https://github.com/reportportal/client-net/actions/workflows/ci.yml) [![NuGet Badge](https://buildstats.info/nuget/reportportal.client)](https://www.nuget.org/packages/reportportal.client) [![codecov](https://codecov.io/gh/reportportal/client-dotnet/graph/badge.svg?token=ImzIb5F6oZ)](https://codecov.io/gh/reportportal/client-dotnet)
 
